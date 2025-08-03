@@ -53,6 +53,12 @@ Australia, Turkey, etc.
 Visa Required (120 countries):
 USA, UK, Canada, China, Germany, etc.
 
+### Actual Output: 
+<img width="1772" height="187" alt="image" src="https://github.com/user-attachments/assets/4fe0db3e-a031-4257-8742-888958d743df" />
+<img width="1765" height="192" alt="image" src="https://github.com/user-attachments/assets/8b7ed062-7e85-4d35-9bd3-1b38194504e2" />
+
+
+
 ### 4. How it Works: 
 
 - Pulls live data from the Henley Passport Index API
